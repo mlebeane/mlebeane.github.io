@@ -8,6 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-Hello!  My name is Michael LeBeane and I'm a Senior Design Engineer at [AMD](https://www.amd.com/).  I'm also a recent PhD. Graduate from [The University of Texas at Austin](https://www.utexas.edu/) from the [Laboratory for Computer Architecutre (LCA)](https://lca.ece.utexas.edu/).
+Hello!  My name is Michael LeBeane and I'm a Senior Design Engineer at [AMD](https://www.amd.com/).  I'm also a recent PhD graduate from [The University of Texas at Austin](https://www.utexas.edu/) where I worked in the [Laboratory for Computer Architecture (LCA)](https://lca.ece.utexas.edu/).
 
-I'm interested in all manner of computing technology.  I'm particularly interested in computer networks, GPUs, and simulation frameworks.
+I'm interested in all manner of computing technology.  Recently, I've been doing research in computer networks, GPUs, and simulation frameworks.
