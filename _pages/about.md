@@ -17,7 +17,7 @@ Conference Publications
 **Lost in Abstraction: Pitfalls of Analyzing GPUs at the Intermediate Language Level**  
 Anthony Gutierrez, Bradford M Beckmann, Alexandru Dutu, Joseph Gross, Michael LeBeane, John Kalamatianos, Onur Kayiran, Matthew Poremba, Brandon Potter, Sooraj Puthoor, Matthew D Sinclair, Mark Wyse, Jieming Yin, Xianwei Zhang, Akshay Jain, Timothy Rogers  
 The IEEE International Symposium on High Performance Computer Architecture (HPCA). February 2018.  
-\[[Paper]\](../files/papers/xtq.pdf) \[[Slides]\](../files/slides/xtq.pdf)
+[\[Paper\]](../files/papers/xtq.pdf) [\[Slides\]](../files/slides/xtq.pdf)
 
 **GPU Triggered Networking for Intra-Kernel Communications**   
 Michael LeBeane, Khaled Hamidouche, Brad Benton, Mauricio Breternitz, Steven K. Reinhardt, and Lizy K. John  
