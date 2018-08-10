@@ -14,42 +14,55 @@ I'm interested in all manner of computing technology.  Recently, I've been doing
 
 Conference Publications
 ======
+**ComP-Net: Command Processor Networking for Efficient Intra-kernel Communications on GPUs**  
+Michael LeBeane, Khaled Hamidouche, Mauricio Breternitz, Brad Benton, Steve Reinhardt, Lizy K. John  
+International Conference on Parallel Architectures and Compilation Techniques (PACT). November 2018.
+
+**Neighborhood-Aware Address Translation for Irregular GPU Applications**  
+Seunghee Shin, Michael LeBeane, Yan Solihin, Arkaprava Basu  
+International Symposium on Microarchitecture (MICRO). October 2018.
+
 **Lost in Abstraction: Pitfalls of Analyzing GPUs at the Intermediate Language Level**  
 Anthony Gutierrez, Bradford M Beckmann, Alexandru Dutu, Joseph Gross, Michael LeBeane, John Kalamatianos, Onur Kayiran, Matthew Poremba, Brandon Potter, Sooraj Puthoor, Matthew D Sinclair, Mark Wyse, Jieming Yin, Xianwei Zhang, Akshay Jain, Timothy Rogers  
-The IEEE International Symposium on High Performance Computer Architecture (HPCA). February 2018.  
-[\[Paper\]](../files/papers/xtq.pdf) [\[Slides\]](../files/slides/xtq.pdf)
+International Symposium on High Performance Computer Architecture (HPCA). February 2018.  
+[\[Paper\]](../files/papers/hpca_2017.pdf)
 
 **GPU Triggered Networking for Intra-Kernel Communications**   
 Michael LeBeane, Khaled Hamidouche, Brad Benton, Mauricio Breternitz, Steven K. Reinhardt, and Lizy K. John  
-The International Conference for High Performance Computing, Networking, Storage, and Analysis (SC). November 2017.  
-[\[Paper\]](../files/papers/gputn.pdf) [\[Slides\]](../files/slides/gputn.pdf)
+International Conference for High Performance Computing, Networking, Storage, and Analysis (SC). November 2017.  
+[\[Paper\]](../files/papers/sc_2017.pdf) [\[Slides\]](../files/slides/sc_2017.pdf)
+
+**Extended Task Queuing: Active Messages for Heterogeneous Systems**
+Michael LeBeane, Brandon Potter, Abhisek Pan, Alexandru Dutu, Vinay Agarwala, Wonchan Lee, Deepak Majeti, Bibek Ghimire, Eric Van Tassell, Samuel Wasmundt, Brad Benton, Mauricio Breternitz, Michael L. Chu, Mithuna Thottethodi, Lizy K. John, and Steven K. Reinhardt  
+International Conference for High Performance Computing, Networking, Storage, and Analysis (SC). November 2016.  
+[\[Paper\]](../files/papers/sc_2016.pdf) [\[Slides\]](../files/slides/sc_2016.pdf)
 
 **Proxy-Guided Load Balancing of Graph Processing Workloads on Heterogeneous Clusters**  
 Shuang Song, Meng Li, Xinnian Zheng, Jee Ho Ryoo, Reena Panda, Michael LeBeane, Andreas Gerstlauer, and Lizy K. John  
-The IEEE International Conference on Parallel Processing (ICPP). August 2016.  
+International Conference on Parallel Processing (ICPP). August 2016.  
 [\[Paper\]](../files/papers/icpp_2016.pdf)
 
 **Genesys: Automatically Generating Representative Training-sets**  
 Reena Panda, Xinnian Zheng, Jee Ho Ryoo, Michael LeBeane, Shuang Song, Andreas Gerstlauer, and Lizy K. John  
-The IEEE International Conference on Embedded Computer Systems: Architectures, Modeling, and Simulation (SAMOS). July 2016.  
+International Conference on Embedded Computer Systems: Architectures, Modeling, and Simulation (SAMOS). July 2016.  
 [\[Paper\]](../files/papers/samos_2016.pdf)
 
 **Data Partitioning Strategies for Graph Workloads on Heterogeneous Clusters**  
 Michael LeBeane, Shuang Song, Reena Panda, Jee Ho Ryoo, and Lizy K. John  
-The IEEE International Conference for High Performance Computing, Networking, Storage and Analysis (SC). November 2015.  
+International Conference for High Performance Computing, Networking, Storage and Analysis (SC). November 2015.  
 [\[Paper\]](../files/papers/sc_2015.pdf) [\[Slides\]](../files/slides/sc_2015.pdf)
 
 **Performance Characterization of Modern Databases on Out-of-order CPUs**  
 Reena Panda, Christopher Erb, Michael LeBeane, Jee Ho Ryoo, and Lizy K. John  
-The IEEE International Symposium on Computer Architecture and High Performance Computing (SBAC-PAD). October 2015.  
+International Symposium on Computer Architecture and High Performance Computing (SBAC-PAD). October 2015.  
 [\[Paper\]](../files/papers/sbacpad_2015.pdf)
 
 **WattWatcher: Fine-Grained Power Estimation For Emerging Workloads**  
 Michael LeBeane, Jee Ho Ryoo, Reena Panda, and Lizy K. John  
-The IEEE International Symposium on Computer Architecture and High Performance Computing (SBAC-PAD). October 2015.  
+International Symposium on Computer Architecture and High Performance Computing (SBAC-PAD). October 2015.  
 [\[Paper\]](../files/papers/wattwatcher.pdf) [\[Slides\]](../files/slides/wattwatcher.pdf)
 
-**GPGPU Benchmark Suites: How Well Do They Sample the Performance Spectrum (Best Paper Runner-Up)**  
+**GPGPU Benchmark Suites: How Well Do They Sample the Performance Spectrum? (Best Paper Runner-Up)**  
 Jee Ho Ryoo, Saddam Quirem, Michael LeBeane, Reena Panda, Shuang Song, and Lizy K. John  
 The IEEE International Conference on Parallel Processing (ICPP). September 2015.  
 [\[Paper\]](../files/papers/icpp_2015.pdf)
@@ -57,21 +70,32 @@ The IEEE International Conference on Parallel Processing (ICPP). September 2015.
 **WattWatcher: Fine-Grained Power Estimation on Live Multicore Systems Using Configurable Models (Best in Session)**  
 Michael LeBeane, Jee Ho Ryoo, Reena Panda, and Lizy K. John  
 SRC TECHCON. September 2015.  
-[\[Paper\]](../files/papers/wattwatcher_techcon.pdf) [\[Slides\]](../files/slides/wattwatcher_techcon.pdf)
+[\[Paper\]](../files/papers/wattwatcher_techcon.pdf)
 
-**Control Flow Behavior of Cloud Workloads (Poster)**  
+**Control Flow Behavior of Cloud Workloads (Poster Paper)**  
 Jee Ho Ryoo, Michael LeBeane, Muhammad Faisal Iqbal, and Lizy K. John  
 The IEEE International Symposium on Workload Characterization (IISWC). October 2014.  
 [\[Paper\]](../files/papers/iiswc_2014.pdf)
 
 Dissertation
 ======
-Optimizing Communication for Clusters of GPUs
-Michael LeBeane
+Optimizing Communication for Clusters of GPUs  
+Michael LeBeane  
 [\[Dissertation\]](../files/papers/dissertation.pdf) [\[Slides\]](../files/slides/dissertation.pdf)
+
+[CV](../files/lebeane/cv.pdf)
+=======
 
 Patents
 ======
+**GPU remote communication with triggered operations**  
+Michael LeBeane and Steve Reinhardt. Advanced Micro Devices Incorporated, assignee. Application Number 15/297079.  
+[\[Link\]](https://patents.google.com/patent/US20180107627A1/en)
 
-CV
-=======
+**Network interface controller-based scheduling of processing tasks in a distributed computing system**  
+Michael LeBeane, Abhisek Pan, and Steve Reinhardt. Advanced Micro Devices Incorporated, assignee. Application Number 15/267936.  
+[\[Link\]](.https://patents.google.com/patent/US20180081715A1/en)
+
+**Power-aware Work Stealing**  
+Mauricio Breternitz, Deepak Majeti, and Michael LeBeane. Advanced Micro Devices Incorporated, assignee. Application Number 14/862038.  
+[\[Link\]](https://patents.google.com/patent/US20170083382A1/en)
