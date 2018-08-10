@@ -12,6 +12,8 @@ Hello!  My name is Michael LeBeane and I'm a Senior Design Engineer at [AMD](htt
 
 I'm interested in all manner of computing technology.  Recently, I've been doing research in computer networks, GPUs, and simulation frameworks.
 
+###[Click here to download my CV](../files/lebeane/cv.pdf)
+
 Conference Publications
 ======
 **ComP-Net: Command Processor Networking for Efficient Intra-kernel Communications on GPUs**  
@@ -82,9 +84,6 @@ Dissertation
 Optimizing Communication for Clusters of GPUs  
 Michael LeBeane  
 [\[Dissertation\]](../files/papers/dissertation.pdf) [\[Slides\]](../files/slides/dissertation.pdf)
-
-[CV](../files/lebeane/cv.pdf)
-=======
 
 Patents
 ======
