@@ -12,7 +12,7 @@ Hello!  My name is Michael LeBeane and I'm a Senior Design Engineer at [AMD](htt
 
 I'm interested in all manner of computing technology.  Recently, I've been doing research in computer networks, GPUs, and simulation frameworks.
 
-### [**_Click here to download my CV_**](../files/lebeane/cv.pdf)
+## [**_Click here to download my CV_**](../files/lebeane/cv.pdf)  
 
 Conference Publications
 ======
