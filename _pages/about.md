@@ -12,7 +12,7 @@ Hello!  My name is Michael LeBeane and I'm a Senior Design Engineer at [AMD](htt
 
 I'm interested in all manner of computing technology.  Recently, I've been doing research in computer networks, GPUs, and simulation frameworks.
 
-## [**_Click here to download my CV_**](../files/lebeane/lebeane_cv.pdf)  
+## [**_Click here to download my CV_**](../files/lebeane_cv.pdf)  
 
 Conference Publications
 ======
@@ -34,7 +34,7 @@ Michael LeBeane, Khaled Hamidouche, Brad Benton, Mauricio Breternitz, Steven K. 
 International Conference for High Performance Computing, Networking, Storage, and Analysis (SC). November 2017.  
 [\[Paper\]](../files/papers/sc_2017.pdf) [\[Slides\]](../files/slides/sc_2017.pdf)
 
-**Extended Task Queuing: Active Messages for Heterogeneous Systems**
+**Extended Task Queuing: Active Messages for Heterogeneous Systems**  
 Michael LeBeane, Brandon Potter, Abhisek Pan, Alexandru Dutu, Vinay Agarwala, Wonchan Lee, Deepak Majeti, Bibek Ghimire, Eric Van Tassell, Samuel Wasmundt, Brad Benton, Mauricio Breternitz, Michael L. Chu, Mithuna Thottethodi, Lizy K. John, and Steven K. Reinhardt  
 International Conference for High Performance Computing, Networking, Storage, and Analysis (SC). November 2016.  
 [\[Paper\]](../files/papers/sc_2016.pdf) [\[Slides\]](../files/slides/sc_2016.pdf)
@@ -93,7 +93,7 @@ Michael LeBeane and Steve Reinhardt. Advanced Micro Devices Incorporated, assign
 
 **Network interface controller-based scheduling of processing tasks in a distributed computing system**  
 Michael LeBeane, Abhisek Pan, and Steve Reinhardt. Advanced Micro Devices Incorporated, assignee. Application Number 15/267936.  
-[\[Link\]](.https://patents.google.com/patent/US20180081715A1/en)
+[\[Link\]](https://patents.google.com/patent/US20180081715A1/en)
 
 **Power-aware Work Stealing**  
 Mauricio Breternitz, Deepak Majeti, and Michael LeBeane. Advanced Micro Devices Incorporated, assignee. Application Number 14/862038.  
