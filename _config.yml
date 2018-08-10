@@ -80,8 +80,8 @@ analytics:
 # Site Author
 author:
   name             : "Michael LeBeane"
-  avatar           : "profile.png"
-  bio              :
+  avatar           : "michael_grad_school.png"
+  bio              : "Me in graduate school.  New picture incoming soon!"
   location         : "Austin, TX"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=gjzWwPoAAAAJ&hl=en"
@@ -98,7 +98,7 @@ author:
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         :
+  linkedin         : "www.linkedin.com/in/mlebeane"
   orcid            :
   pinterest        :
   soundcloud       :
