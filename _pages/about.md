@@ -27,7 +27,7 @@ International Symposium on Microarchitecture (MICRO). October 2018.
 **Lost in Abstraction: Pitfalls of Analyzing GPUs at the Intermediate Language Level**  
 Anthony Gutierrez, Bradford M Beckmann, Alexandru Dutu, Joseph Gross, Michael LeBeane, John Kalamatianos, Onur Kayiran, Matthew Poremba, Brandon Potter, Sooraj Puthoor, Matthew D Sinclair, Mark Wyse, Jieming Yin, Xianwei Zhang, Akshay Jain, Timothy Rogers  
 International Symposium on High Performance Computer Architecture (HPCA). February 2018.  
-[\[Paper\]](../files/papers/hpca_2017.pdf)
+[\[Paper\]](../files/papers/hpca_2017.pdf) [\[Slides\]](../files/slides/hpca_2017.pdf)
 
 **GPU Triggered Networking for Intra-Kernel Communications**   
 Michael LeBeane, Khaled Hamidouche, Brad Benton, Mauricio Breternitz, Steven K. Reinhardt, and Lizy K. John  
@@ -78,6 +78,18 @@ SRC TECHCON. September 2015.
 Jee Ho Ryoo, Michael LeBeane, Muhammad Faisal Iqbal, and Lizy K. John  
 The IEEE International Symposium on Workload Characterization (IISWC). October 2014.  
 [\[Paper\]](../files/papers/iiswc_2014.pdf)
+
+Technical Reports
+======
+**Containment Domains Semantics version 0.2**  
+Michael Sullivan, Ikhwan Lee, Jinsuk Chung, Song Zhang, Seong-Lyong Gong, Derong Liu, Michael LeBeane, Kyushick Lee, and Mattan Erez.  
+Technical report Tr-LPH-2014–001, LPH Group, Department of Electrical and Computer Engineering, The University of Texas at Austin, February, 2014.  
+[\[Report\]](../files/tech_reports/cd_semantics_v2.pdf)
+
+**Containment Domains Semantics version 0.1**  
+Michael Sullivan, Ikhwan Lee, Jinsuk Chung, Song Zhang, Seong-Lyong Gong, Derong Liu, Michael LeBeane, and Mattan Erez  
+Technical report Tr-LPH-2013–001, LPH Group, Department of Electrical and Computer Engineering, The University of Texas at Austin. October 2013.  
+[\[Report\]](../files/tech_reports/cd_semantics_v1.pdf)
 
 Dissertation
 ======
