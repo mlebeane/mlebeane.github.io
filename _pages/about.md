@@ -18,12 +18,12 @@ Conference Publications
 ======
 **ComP-Net: Command Processor Networking for Efficient Intra-kernel Communications on GPUs**  
 Michael LeBeane, Khaled Hamidouche, Mauricio Breternitz, Brad Benton, Steve Reinhardt, Lizy K. John  
-International Conference on Parallel Architectures and Compilation Techniques (PACT). November 2018. 
+International Conference on Parallel Architectures and Compilation Techniques (PACT). November 2018.  
 [\[Paper\]](../files/papers/pact_2018.pdf) [\[Slides\]](../files/slides/pact_2018.pdf)
 
 **Neighborhood-Aware Address Translation for Irregular GPU Applications**  
 Seunghee Shin, Michael LeBeane, Yan Solihin, Arkaprava Basu  
-International Symposium on Microarchitecture (MICRO). October 2018. 
+International Symposium on Microarchitecture (MICRO). October 2018.  
 [\[Paper\]](../files/papers/micro_2018.pdf) [\[Slides\]](../files/slides/micro_2018.pdf)
 
 **Lost in Abstraction: Pitfalls of Analyzing GPUs at the Intermediate Language Level**  
