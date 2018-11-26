@@ -18,11 +18,13 @@ Conference Publications
 ======
 **ComP-Net: Command Processor Networking for Efficient Intra-kernel Communications on GPUs**  
 Michael LeBeane, Khaled Hamidouche, Mauricio Breternitz, Brad Benton, Steve Reinhardt, Lizy K. John  
-International Conference on Parallel Architectures and Compilation Techniques (PACT). November 2018.
+International Conference on Parallel Architectures and Compilation Techniques (PACT). November 2018. 
+[\[Paper\]](../files/papers/pact_2018.pdf) [\[Slides\]](../files/slides/pact_2018.pdf)
 
 **Neighborhood-Aware Address Translation for Irregular GPU Applications**  
 Seunghee Shin, Michael LeBeane, Yan Solihin, Arkaprava Basu  
-International Symposium on Microarchitecture (MICRO). October 2018.
+International Symposium on Microarchitecture (MICRO). October 2018. 
+[\[Paper\]](../files/papers/micro_2018.pdf) [\[Slides\]](../files/slides/micro_2018.pdf)
 
 **Lost in Abstraction: Pitfalls of Analyzing GPUs at the Intermediate Language Level**  
 Anthony Gutierrez, Bradford M Beckmann, Alexandru Dutu, Joseph Gross, Michael LeBeane, John Kalamatianos, Onur Kayiran, Matthew Poremba, Brandon Potter, Sooraj Puthoor, Matthew D Sinclair, Mark Wyse, Jieming Yin, Xianwei Zhang, Akshay Jain, Timothy Rogers  
@@ -99,6 +101,10 @@ Michael LeBeane
 
 Patents
 ======
+**Network cache injection for coherent gpus**  
+Michael LeBeane, Brad Benton, Vinay Agarwala. Advanced Micro Devices Incorporated, assignee. Application Number 15/498076. 
+[\[Link\]](https://patents.google.com/patent/US20180314638A1/en)
+
 **GPU remote communication with triggered operations**  
 Michael LeBeane and Steve Reinhardt. Advanced Micro Devices Incorporated, assignee. Application Number 15/297079.  
 [\[Link\]](https://patents.google.com/patent/US20180107627A1/en)
