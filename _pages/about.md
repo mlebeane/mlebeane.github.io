@@ -26,6 +26,10 @@ Seunghee Shin, Michael LeBeane, Yan Solihin, Arkaprava Basu
 International Symposium on Microarchitecture (MICRO). October 2018.  
 [\[Paper\]](../files/papers/micro_2018.pdf) [\[Slides\]](../files/slides/micro_2018.pdf)
 
+**Case Study of Process Variation-Based Domain Partitioning of GPGPUs**  
+Shomit Das, Michael LeBeane, Bradford Beckmann, Greg Sadowski  
+International Symposium on Asynchronous Circuits and Systems (ASYNC). May 2018.
+
 **Lost in Abstraction: Pitfalls of Analyzing GPUs at the Intermediate Language Level**  
 Anthony Gutierrez, Bradford M Beckmann, Alexandru Dutu, Joseph Gross, Michael LeBeane, John Kalamatianos, Onur Kayiran, Matthew Poremba, Brandon Potter, Sooraj Puthoor, Matthew D Sinclair, Mark Wyse, Jieming Yin, Xianwei Zhang, Akshay Jain, Timothy Rogers  
 International Symposium on High Performance Computer Architecture (HPCA). February 2018.  

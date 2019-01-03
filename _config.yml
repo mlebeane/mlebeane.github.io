@@ -55,19 +55,19 @@ alexa_site_verification  :
 yandex_site_verification :
 
 # Social Sharing
-twitter:
-  username               : &twitter
-facebook:
-  username               :
-  app_id                 :
-  publisher              :
-og_image                 :  # Open Graph/Twitter default site image
+#twitter:
+#  username               : &twitter
+#facebook:
+#  username               :
+#  app_id                 :
+#  publisher              :
+#og_image                 :  # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
-social:
-  type                   : # Person or Organization (defaults to Person)
-  name                   : # If the user or organization name differs from the site's name
-  links: # An array of links to social media profiles
+#social:
+#  type                   : # Person or Organization (defaults to Person)
+#  name                   : # If the user or organization name differs from the site's name
+#  links: # An array of links to social media profiles
 
 
 # Analytics
@@ -83,7 +83,7 @@ author:
   avatar           : "michael_grad_school.jpg"
   bio              : "Me in graduate school.  New picture incoming soon!"
   location         : "Austin, TX"
-  employer         :
+  employer         : "Advanced Micro Devices, Inc."
   googlescholar    : "https://scholar.google.com/citations?user=gjzWwPoAAAAJ&hl=en"
   email            : "mlebeane@gmail.com"
   uri              :
