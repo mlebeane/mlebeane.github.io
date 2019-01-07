@@ -28,7 +28,8 @@ International Symposium on Microarchitecture (MICRO). October 2018.
 
 **Case Study of Process Variation-Based Domain Partitioning of GPGPUs**  
 Shomit Das, Michael LeBeane, Bradford Beckmann, Greg Sadowski  
-International Symposium on Asynchronous Circuits and Systems (ASYNC). May 2018.
+International Symposium on Asynchronous Circuits and Systems (ASYNC). May 2018.  
+[\[Paper\]](../files/papers/async_2018.pdf)
 
 **Lost in Abstraction: Pitfalls of Analyzing GPUs at the Intermediate Language Level**  
 Anthony Gutierrez, Bradford M Beckmann, Alexandru Dutu, Joseph Gross, Michael LeBeane, John Kalamatianos, Onur Kayiran, Matthew Poremba, Brandon Potter, Sooraj Puthoor, Matthew D Sinclair, Mark Wyse, Jieming Yin, Xianwei Zhang, Akshay Jain, Timothy Rogers  
@@ -106,7 +107,7 @@ Michael LeBeane
 Patents
 ======
 **Network cache injection for coherent gpus**  
-Michael LeBeane, Brad Benton, Vinay Agarwala. Advanced Micro Devices Incorporated, assignee. Application Number 15/498076. 
+Michael LeBeane, Brad Benton, Vinay Agarwala. Advanced Micro Devices Incorporated, assignee. Application Number 15/498076.  
 [\[Link\]](https://patents.google.com/patent/US20180314638A1/en)
 
 **GPU remote communication with triggered operations**  
