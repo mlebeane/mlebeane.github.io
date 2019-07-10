@@ -106,6 +106,10 @@ Michael LeBeane
 
 Patents
 ======
+**Gpu networking using an integrated command processor**  
+Michael LeBeane, Brad Benton, Vinay Agarwala. Advanced Micro Devices Incorporated, assignee. Application Number 15/815043.  
+[\[Link\]](https://patents.google.com/patent/US20190146857A1/en)
+
 **Network cache injection for coherent gpus**  
 Michael LeBeane, Brad Benton, Vinay Agarwala. Advanced Micro Devices Incorporated, assignee. Application Number 15/498076.  
 [\[Link\]](https://patents.google.com/patent/US20180314638A1/en)
