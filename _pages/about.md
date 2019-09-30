@@ -106,8 +106,12 @@ Michael LeBeane
 
 Patents
 ======
+**Optimized asynchronous training of neural networks using a distributed parameter server with eager updates**  
+Khaled Hamidouche, Michael LeBeane, Brad Benton, Michael Chu. Advanced Micro Devices Incorporated, assignee. Application Number 15/898433.  
+[\[Link\]](https://patents.google.com/patent/US20190258924A1/en)
+
 **Gpu networking using an integrated command processor**  
-Michael LeBeane, Brad Benton, Vinay Agarwala. Advanced Micro Devices Incorporated, assignee. Application Number 15/815043.  
+Michael LeBeane, Khaled Hamidoouche, Brad Benton. Advanced Micro Devices Incorporated, assignee. Application Number 15/815043.  
 [\[Link\]](https://patents.google.com/patent/US20190146857A1/en)
 
 **Network cache injection for coherent gpus**  
