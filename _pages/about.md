@@ -16,6 +16,11 @@ I'm interested in all manner of computing technology.  Recently, I've been doing
 
 Conference Publications
 ======
+**Optimizing GPU Cache Policies for MI Workloads**  
+Johnathan Alsop, Matthew D. Sinclair, Anthony Gutierrez, Srikant Bharadwaj, Xianwei Zhang, Bradford Beckmann, Alexandru Dutu, Onur Kayiran, Michael LeBeane, Brandon Potter, Sooraj Puthoor, Tsung Tai Yeh  
+International Symposium on Workload Characterization (IISWC) (Short Paper). November 2019.  
+[\[ArXiV Paper\]](../files/papers/iiswc_2019.pdf)
+
 **ComP-Net: Command Processor Networking for Efficient Intra-kernel Communications on GPUs**  
 Michael LeBeane, Khaled Hamidouche, Mauricio Breternitz, Brad Benton, Steve Reinhardt, Lizy K. John  
 International Conference on Parallel Architectures and Compilation Techniques (PACT). November 2018.  
