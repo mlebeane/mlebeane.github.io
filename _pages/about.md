@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello!  My name is Michael LeBeane and I'm an MTS Silicon Design Engineer at [AMD Research](https://www.amd.com/en-us/who-we-are/corporate-information/research).  I'm also a recent PhD graduate from [The University of Texas at Austin](https://www.utexas.edu/) where I worked in the [Laboratory for Computer Architecture (LCA)](https://lca.ece.utexas.edu/).  Before that I was an undergraduate student at [Washington University in St. Louis](https://wustl.edu/) where I studied computer science and interned with [Intel](https://www.intel.com).
+Hello!  My name is Michael LeBeane and I'm an MTS Silicon Design Engineer at [AMD Research](https://www.amd.com/en/corporate/research).  I'm also a recent PhD graduate from [The University of Texas at Austin](https://www.utexas.edu/) where I worked in the [Laboratory for Computer Architecture (LCA)](https://lca.ece.utexas.edu/).  Before that I was an undergraduate student at [Washington University in St. Louis](https://wustl.edu/) where I studied computer science and interned with [Intel](https://www.intel.com).
 
 I'm interested in all manner of computing technology.  Recently, I've been doing research in computer networks, GPUs, and simulation frameworks.
 
@@ -16,6 +16,10 @@ I'm interested in all manner of computing technology.  Recently, I've been doing
 
 Conference Publications
 ======
+**GPU Initiated OpenSHMEM: Correct and Efficient Intra-Kernel Networking for dGPUs**  
+Khaled Hamidouche, Michael LeBeane  
+Principles and Practice of Parallel Programming (PPoPP). February 2020.
+
 **Optimizing GPU Cache Policies for MI Workloads**  
 Johnathan Alsop, Matthew D. Sinclair, Anthony Gutierrez, Srikant Bharadwaj, Xianwei Zhang, Bradford Beckmann, Alexandru Dutu, Onur Kayiran, Michael LeBeane, Brandon Potter, Sooraj Puthoor, Tsung Tai Yeh  
 International Symposium on Workload Characterization (IISWC) (Short Paper). November 2019.  
@@ -111,6 +115,10 @@ Michael LeBeane
 
 Patents
 ======
+**Quality of service for input/output memory management unit**  
+Arkaprava Basu, Michael LeBeane, Eric Van Tassell. Advanced Micro Devices Incorporated, assignee. Application Number 16/007027.  
+[\[Link\]](https://patents.google.com/patent/US20190384722A1/en)
+
 **Optimized asynchronous training of neural networks using a distributed parameter server with eager updates**  
 Khaled Hamidouche, Michael LeBeane, Brad Benton, Michael Chu. Advanced Micro Devices Incorporated, assignee. Application Number 15/898433.  
 [\[Link\]](https://patents.google.com/patent/US20190258924A1/en)
