@@ -18,7 +18,8 @@ Conference Publications
 ======
 **GPU Initiated OpenSHMEM: Correct and Efficient Intra-Kernel Networking for dGPUs**  
 Khaled Hamidouche, Michael LeBeane  
-Principles and Practice of Parallel Programming (PPoPP). February 2020.
+Principles and Practice of Parallel Programming (PPoPP). February 2020.  
+[\[Paper\]](../files/papers/ppopp_2020.pdf) [\[Slides\]](../files/slides/ppopp_2020.pdf)
 
 **Optimizing GPU Cache Policies for MI Workloads**  
 Johnathan Alsop, Matthew D. Sinclair, Anthony Gutierrez, Srikant Bharadwaj, Xianwei Zhang, Bradford Beckmann, Alexandru Dutu, Onur Kayiran, Michael LeBeane, Brandon Potter, Sooraj Puthoor, Tsung Tai Yeh  
@@ -115,6 +116,22 @@ Michael LeBeane
 
 Patents
 ======
+**Apparatus and method for neighborhood-aware virtual to physical address translations**  
+Michael LeBeane, Seunghee Shin. Advanced Micro Devices Incorporated, assignee. Application Number 16/110062.  
+[\[Link\]](https://patents.google.com/patent/US20200065255A1/en)
+
+**Network-related performance for gpus**  
+Michael LeBeane, Khaled Hamidouche, Brad Beckmann. Advanced Micro Devices Incorporated, assignee. Application Number 16/049216.  
+[\[Link\]](https://patents.google.com/patent/US20200034195A1/en)
+
+**Optimized and scalable sparse triangular linear systems on networks of accelerators**  
+Khaled Hamidouche, Michael LeBeane, Nicholas Malaya, Joseph Greathouse. Advanced Micro Devices Incorporated, assignee. Application Number 16/16044145.  
+[\[Link\]](https://patents.google.com/patent/US20200004610A1/en)
+
+**Network packet templating for gpu-initiated communication**  
+Khaled Hamidouche, Michael LeBeane, Brad Benton. Advanced Micro Devices Incorporated, assignee. Application Number 16/022498.  
+[\[Link\]](https://patents.google.com/patent/US20200004610A1/en)
+
 **Quality of service for input/output memory management unit**  
 Arkaprava Basu, Michael LeBeane, Eric Van Tassell. Advanced Micro Devices Incorporated, assignee. Application Number 16/007027.  
 [\[Link\]](https://patents.google.com/patent/US20190384722A1/en)
