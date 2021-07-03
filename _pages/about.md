@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Hello!  My name is Michael LeBeane and I'm an MTS Silicon Design Engineer at [AMD Research](https://www.amd.com/en/corporate/research).  I'm also a recent PhD graduate from [The University of Texas at Austin](https://www.utexas.edu/) where I worked in the [Laboratory for Computer Architecture (LCA)](https://lca.ece.utexas.edu/).  Before that I was an undergraduate student at [Washington University in St. Louis](https://wustl.edu/) where I studied computer science and interned with [Intel](https://www.intel.com).
+Hello!  My name is Michael LeBeane and I'm currently a Staff Engineer at [Qualcomm](https://www.qualcomm.com/), where I work on modeling and architecture to support emerging graphics programming models.  Before that I spent 5 years working at [AMD Research](https://www.amd.com/en/corporate/research), where I focused on research in computer networks, GPUs, and simulation frameworks.  
 
-I'm interested in all manner of computing technology.  Recently, I've been doing research in computer networks, GPUs, and simulation frameworks.
+I'm a PhD graduate from [The University of Texas at Austin](https://www.utexas.edu/) where I worked in the [Laboratory for Computer Architecture (LCA)](https://lca.ece.utexas.edu/).  I'm also a graduate from [Washington University in St. Louis](https://wustl.edu/) where I studied computer science and interned with [Intel](https://www.intel.com).
 
 ## [**_Click here to download my CV_**](../files/lebeane_cv.pdf)  
 
@@ -117,7 +117,7 @@ Michael LeBeane
 Patents
 ======
 **Apparatus and method for neighborhood-aware virtual to physical address translations**  
-Michael LeBeane, Seunghee Shin. Advanced Micro Devices Incorporated, assignee. Application Number 16/110062.  
+Michael LeBeane, Seunghee Shin. Advanced Micro Devices Incorporated, assignee. Patent Number 10684957.  
 [\[Link\]](https://patents.google.com/patent/US20200065255A1/en)
 
 **Network-related performance for gpus**  
@@ -125,11 +125,11 @@ Michael LeBeane, Khaled Hamidouche, Brad Beckmann. Advanced Micro Devices Incorp
 [\[Link\]](https://patents.google.com/patent/US20200034195A1/en)
 
 **Optimized and scalable sparse triangular linear systems on networks of accelerators**  
-Khaled Hamidouche, Michael LeBeane, Nicholas Malaya, Joseph Greathouse. Advanced Micro Devices Incorporated, assignee. Application Number 16/16044145.  
+Khaled Hamidouche, Michael LeBeane, Nicholas Malaya, Joseph Greathouse. Advanced Micro Devices Incorporated, assignee. Patent Number 10936697.  
 [\[Link\]](https://patents.google.com/patent/US20200004610A1/en)
 
 **Network packet templating for gpu-initiated communication**  
-Khaled Hamidouche, Michael LeBeane, Brad Benton. Advanced Micro Devices Incorporated, assignee. Application Number 16/022498.  
+Khaled Hamidouche, Michael LeBeane, Brad Benton. Advanced Micro Devices Incorporated, assignee. Patent Number 10740163.  
 [\[Link\]](https://patents.google.com/patent/US20200004610A1/en)
 
 **Quality of service for input/output memory management unit**  
@@ -149,13 +149,13 @@ Michael LeBeane, Brad Benton, Vinay Agarwala. Advanced Micro Devices Incorporate
 [\[Link\]](https://patents.google.com/patent/US20180314638A1/en)
 
 **GPU remote communication with triggered operations**  
-Michael LeBeane and Steve Reinhardt. Advanced Micro Devices Incorporated, assignee. Application Number 15/297079.  
+Michael LeBeane and Steve Reinhardt. Advanced Micro Devices Incorporated, assignee. Patent Number 10936533.  
 [\[Link\]](https://patents.google.com/patent/US20180107627A1/en)
 
 **Network interface controller-based scheduling of processing tasks in a distributed computing system**  
-Michael LeBeane, Abhisek Pan, and Steve Reinhardt. Advanced Micro Devices Incorporated, assignee. Application Number 15/267936.  
+Michael LeBeane, Abhisek Pan, and Steve Reinhardt. Advanced Micro Devices Incorporated, assignee. Patent Number 10963309.  
 [\[Link\]](https://patents.google.com/patent/US20180081715A1/en)
 
 **Power-aware Work Stealing**  
-Mauricio Breternitz, Deepak Majeti, and Michael LeBeane. Advanced Micro Devices Incorporated, assignee. Application Number 14/862038.  
+Mauricio Breternitz, Deepak Majeti, and Michael LeBeane. Advanced Micro Devices Incorporated, assignee. Patent Number 10089155.  
 [\[Link\]](https://patents.google.com/patent/US20170083382A1/en)
