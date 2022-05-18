@@ -16,6 +16,10 @@ I'm a PhD graduate from [The University of Texas at Austin](https://www.utexas.e
 
 Conference Publications
 ======
+**Increasing GPU Translation Reach by Leveraging Under-Utilized On-Chip Resources**
+Jagadish Kotra, Michael LeBeane, Mahmut Kandemir, Gabriel Loh
+International Symposium on Microarchitecture (MICRO). October 2021
+
 **GPU Initiated OpenSHMEM: Correct and Efficient Intra-Kernel Networking for dGPUs**  
 Khaled Hamidouche, Michael LeBeane  
 Principles and Practice of Parallel Programming (PPoPP). February 2020.  
@@ -116,6 +120,22 @@ Michael LeBeane
 
 Patents
 ======
+**Systems and methods for reducing instruction code memory footprint for multiple processes executed at a coprocessor**
+Khaled Hamidouche, Michael LeBeane, Hari Thangirala. Advanced Micro Devices Incorporated, assignee. Application Number 16/719076.  
+[\[Link\]](https://patents.google.com/patent/US20210191641A1/en)
+
+**Efficient memory-semantic networking using scoped memory models**
+Michael LeBeane, Khaled Hamidouche, Hari Thangirala, Brandon Potter. Advanced Micro Devices Incorporated, assignee. Application Number 17/033170.  
+[\[Link\]](https://patents.google.com/patent/US20220100391A1/en)
+
+**Techniques to improve translation lookaside buffer reach by leveraging idle resources**
+Jagadish Kotra, Michael LeBeane. Advanced Micro Devices Incorporated, assignee. Application Number 17/008435. 
+[\[Link\]](https://patents.google.com/patent/US20220066946A1/en)
+
+**Network Command Coalescing on GPUs**
+Michael LeBeane, Khaled Hamidouche, Brandon Potter. Advanced Micro Devices Incorporated, assignee. Application Number 16/993150.
+[\[Link\]](https://patents.google.com/patent/US20220050707A1/en)
+
 **Apparatus and method for neighborhood-aware virtual to physical address translations**  
 Michael LeBeane, Seunghee Shin. Advanced Micro Devices Incorporated, assignee. Patent Number 10684957.  
 [\[Link\]](https://patents.google.com/patent/US20200065255A1/en)
@@ -133,7 +153,7 @@ Khaled Hamidouche, Michael LeBeane, Brad Benton. Advanced Micro Devices Incorpor
 [\[Link\]](https://patents.google.com/patent/US20200004610A1/en)
 
 **Quality of service for input/output memory management unit**  
-Arkaprava Basu, Michael LeBeane, Eric Van Tassell. Advanced Micro Devices Incorporated, assignee. Application Number 16/007027.  
+Arkaprava Basu, Michael LeBeane, Eric Van Tassell. Advanced Micro Devices Incorporated, assignee. Patent Number 11144473B2.  
 [\[Link\]](https://patents.google.com/patent/US20190384722A1/en)
 
 **Optimized asynchronous training of neural networks using a distributed parameter server with eager updates**  
