@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello!  My name is Michael LeBeane and I'm currently a Staff Engineer at [Qualcomm](https://www.qualcomm.com/), where I work on modeling and architecture to support emerging graphics programming models.  Before that I spent 5 years working at [AMD Research](https://www.amd.com/en/corporate/research), where I focused on research in computer networks, GPUs, and simulation frameworks.  
+Hello!  My name is Michael LeBeane and I'm currently a Senior Staff Engineer at [Qualcomm](https://www.qualcomm.com/), where I work on modeling and architecture to support emerging graphics programming models.  Before that I spent 5 years working at [AMD Research](https://www.amd.com/en/corporate/research), where I focused on research in computer networks, GPUs, and simulation frameworks.  
 
 I'm a PhD graduate from [The University of Texas at Austin](https://www.utexas.edu/) where I worked in the [Laboratory for Computer Architecture (LCA)](https://lca.ece.utexas.edu/).  I'm also a graduate from [Washington University in St. Louis](https://wustl.edu/) where I studied computer science and interned with [Intel](https://www.intel.com).
 
