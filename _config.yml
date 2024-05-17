@@ -21,10 +21,10 @@ repository               : "mlebeane/mlebeane.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "michael_grad_school.jpg"
+  avatar           : "michael_profile.jpg"
   name             : "Michael LeBeane"
   pronouns         : # example: "she/her"  
-  bio              : "Me in graduate school.  New picture incoming soon!"
+  bio              :
   location         : "San Diego, CA"
   employer         : "Qualcomm"
   uri              : # URL

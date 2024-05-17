@@ -124,15 +124,15 @@ Khaled Hamidouche, Michael LeBeane, Hari Thangirala. Advanced Micro Devices Inco
 [\[Link\]](https://patents.google.com/patent/US20210191641A1/en)
 
 **Efficient memory-semantic networking using scoped memory models**
-Michael LeBeane, Khaled Hamidouche, Hari Thangirala, Brandon Potter. Advanced Micro Devices Incorporated, assignee. Application Number 17/033170.  
+Michael LeBeane, Khaled Hamidouche, Hari Thangirala, Brandon Potter. Advanced Micro Devices Incorporated, assignee. Patent Number 11714559.
 [\[Link\]](https://patents.google.com/patent/US20220100391A1/en)
 
 **Techniques to improve translation lookaside buffer reach by leveraging idle resources**
-Jagadish Kotra, Michael LeBeane. Advanced Micro Devices Incorporated, assignee. Application Number 17/008435. 
+Jagadish Kotra, Michael LeBeane. Advanced Micro Devices Incorporated, assignee. Patent Number 11321241.
 [\[Link\]](https://patents.google.com/patent/US20220066946A1/en)
 
 **Network Command Coalescing on GPUs**
-Michael LeBeane, Khaled Hamidouche, Brandon Potter. Advanced Micro Devices Incorporated, assignee. Application Number 16/993150.
+Michael LeBeane, Khaled Hamidouche, Brandon Potter. Advanced Micro Devices Incorporated, assignee. Patent Number 11922207.
 [\[Link\]](https://patents.google.com/patent/US20220050707A1/en)
 
 **Apparatus and method for neighborhood-aware virtual to physical address translations**  
@@ -152,19 +152,19 @@ Khaled Hamidouche, Michael LeBeane, Brad Benton. Advanced Micro Devices Incorpor
 [\[Link\]](https://patents.google.com/patent/US20200004610A1/en)
 
 **Quality of service for input/output memory management unit**  
-Arkaprava Basu, Michael LeBeane, Eric Van Tassell. Advanced Micro Devices Incorporated, assignee. Patent Number 11144473B2.  
+Arkaprava Basu, Michael LeBeane, Eric Van Tassell. Advanced Micro Devices Incorporated, assignee. Patent Number 111444732.
 [\[Link\]](https://patents.google.com/patent/US20190384722A1/en)
 
 **Optimized asynchronous training of neural networks using a distributed parameter server with eager updates**  
-Khaled Hamidouche, Michael LeBeane, Brad Benton, Michael Chu. Advanced Micro Devices Incorporated, assignee. Application Number 15/898433.  
+Khaled Hamidouche, Michael LeBeane, Brad Benton, Michael Chu. Advanced Micro Devices Incorporated, assignee. Patent Number 11630994.
 [\[Link\]](https://patents.google.com/patent/US20190258924A1/en)
 
 **Gpu networking using an integrated command processor**  
-Michael LeBeane, Khaled Hamidoouche, Brad Benton. Advanced Micro Devices Incorporated, assignee. Application Number 15/815043.  
+Michael LeBeane, Khaled Hamidoouche, Brad Benton. Advanced Micro Devices Incorporated, assignee. Patent Number 11544121.
 [\[Link\]](https://patents.google.com/patent/US20190146857A1/en)
 
 **Network cache injection for coherent gpus**  
-Michael LeBeane, Brad Benton, Vinay Agarwala. Advanced Micro Devices Incorporated, assignee. Application Number 15/498076.  
+Michael LeBeane, Brad Benton, Vinay Agarwala. Advanced Micro Devices Incorporated, assignee. Patent Number 11687460.
 [\[Link\]](https://patents.google.com/patent/US20180314638A1/en)
 
 **GPU remote communication with triggered operations**  
@@ -176,7 +176,5 @@ Michael LeBeane, Abhisek Pan, and Steve Reinhardt. Advanced Micro Devices Incorp
 [\[Link\]](https://patents.google.com/patent/US20180081715A1/en)
 
 **Power-aware Work Stealing**  
-Mauricio Breternitz, Deepak Majeti, and Michael LeBeane. Advanced Micro Devices Incorporated, assignee. Patent Number 10089155.  
+Mauricio Breternitz, Deepak Majeti, and Michael LeBeane. Advanced Micro Devices Incorporated, assignee. Patent Number 10089155.
 [\[Link\]](https://patents.google.com/patent/US20170083382A1/en)
-=======
-For more info
