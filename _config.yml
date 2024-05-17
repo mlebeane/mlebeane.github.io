@@ -12,7 +12,7 @@ title                    : "Michael LeBeane's Webpage"
 title_separator          : "-"
 name                     : &name "Michael LeBeane"
 description              : &description "personal description"
-url                      : https://www.mlebeane.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://mlebeane.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "mlebeane/mlebeane.github.io"
 
