@@ -1,7 +1,6 @@
 ---
 permalink: /
 title: "Welcome!"
-excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
@@ -179,3 +178,5 @@ Michael LeBeane, Abhisek Pan, and Steve Reinhardt. Advanced Micro Devices Incorp
 **Power-aware Work Stealing**  
 Mauricio Breternitz, Deepak Majeti, and Michael LeBeane. Advanced Micro Devices Incorporated, assignee. Patent Number 10089155.  
 [\[Link\]](https://patents.google.com/patent/US20170083382A1/en)
+=======
+For more info
